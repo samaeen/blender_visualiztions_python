@@ -1,6 +1,6 @@
 import bpy
 
-postions=(0,3,2),(4,1,6),(3,5,8),(6,8,2),(1,8,1)
+positions=(0,3,2),(4,1,6),(3,5,8),(6,8,2),(1,8,1)
 start_pos=(0,0,0)
 
 ob=bpy.data.objects["Sphere"]
